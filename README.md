@@ -1,2 +1,5 @@
 # hello-world
-First ever repository - part of GitHub tutorial
+
+As part of my learning experience, I am now editing the README file on the branch called readme-edits.
+
+
